@@ -1,5 +1,5 @@
 # ![](https://icons.iconarchive.com/icons/pixture/vegetable/32/Tomato-icon.png) Tomate
-Tomate is a tiny pomodoro timer taking visual cues from [pomofocus.io](https://pomofocus.io/). It runs on Pocket PC 2003, Windows Mobile devices and PCs.
+Tomate is a tiny Pomodoro timer taking visual cues from [pomofocus.io](https://pomofocus.io/). It runs on Pocket PC 2003, Windows Mobile devices and PCs.
 
 <p align="center">
   <img alt="Running on Windows 10" src="https://github.com/dotcomboom/Tomate/blob/master/Screenshots/desktop.png?raw=true">
