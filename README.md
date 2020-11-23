@@ -1,7 +1,9 @@
 # Tomate
 Tomate is a tiny pomodoro timer taking visual cues from [pomofocus.io](https://pomofocus.io/). It runs on Windows Mobile 5/6 devices and PCs.
 
-![Running on Windows 10](https://github.com/dotcomboom/Tomate/blob/master/Screenshots/desktop.png?raw=true)
+<p align="center">
+  <img alt="Running on Windows 10" src="https://github.com/dotcomboom/Tomate/blob/master/Screenshots/desktop.png?raw=true">
+</p>
 
 |                 |                 |                 |
 | --------------- | --------------- | --------------- |
@@ -13,5 +15,4 @@ Mobile users will need the .NET Compact Framework 3.5 flavor for their device, a
 
 PC users may need the [.NET Compact Framework 3.5 Redistributable](https://www.microsoft.com/en-us/download/details.aspx?id=65).
 
-## Development
-Visual Studio 2008 is required for building and development.
+For building and development Visual Studio 2008 is required.
