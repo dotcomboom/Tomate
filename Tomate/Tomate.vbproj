@@ -11,9 +11,9 @@
     <RootNamespace>Tomate</RootNamespace>
     <AssemblyName>Tomate</AssemblyName>
     <ProjectTypeGuids>{68B1623D-7FB9-47D8-8664-7ECEA3297D4F};{F184B08F-C81C-45F6-A57F-5ABD9991F28F}</ProjectTypeGuids>
-    <PlatformFamilyName>Smartphone</PlatformFamilyName>
-    <PlatformID>BD0CC567-F6FD-4ca3-99D2-063EFDFC0A39</PlatformID>
-    <OSVersion>5.01</OSVersion>
+    <PlatformFamilyName>PocketPC</PlatformFamilyName>
+    <PlatformID>3C41C503-53EF-4c2a-8DD4-A8217CAD115E</PlatformID>
+    <OSVersion>4.20</OSVersion>
     <MyType>WindowsForms</MyType>
     <DeployDirSuffix>Tomate</DeployDirSuffix>
     <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
@@ -21,7 +21,7 @@
     <OptionCompare>Binary</OptionCompare>
     <OptionStrict>Off</OptionStrict>
     <OptionInfer>On</OptionInfer>
-    <NativePlatformName>Windows Mobile 5.0 Smartphone SDK</NativePlatformName>
+    <NativePlatformName>Pocket PC 2003</NativePlatformName>
     <FormFactorID>
     </FormFactorID>
     <ApplicationIcon>Pixture-Vegetable-Tomato.ico</ApplicationIcon>
