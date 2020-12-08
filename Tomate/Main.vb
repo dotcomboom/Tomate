@@ -4,7 +4,7 @@ Public Class Main
 
     Public timers As New Dictionary(Of String, Dictionary(Of String, Object))
     Public time As New TimeSpan
-    Public v = "1.0"
+    Public v = "1.0.1"
     Public builddate = "11/22/2020"
 
     Private Sub Form1_KeyDown(ByVal sender As System.Object, ByVal e As System.Windows.Forms.KeyEventArgs) Handles MyBase.KeyDown
