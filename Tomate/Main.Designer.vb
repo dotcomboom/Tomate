@@ -92,7 +92,7 @@ Partial Public Class Main
         '
         'Main
         '
-        Me.AutoScaleDimensions = New System.Drawing.SizeF(131.0!, 131.0!)
+        Me.AutoScaleDimensions = New System.Drawing.SizeF(96.0!, 96.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Dpi
         Me.AutoScroll = True
         Me.BackColor = System.Drawing.Color.FromArgb(CType(CType(219, Byte), Integer), CType(CType(82, Byte), Integer), CType(CType(77, Byte), Integer))
@@ -107,6 +107,7 @@ Partial Public Class Main
         Me.KeyPreview = True
         Me.Name = "Main"
         Me.Text = "Tomate"
+        Me.TopMost = True
         Me.ResumeLayout(False)
 
     End Sub
