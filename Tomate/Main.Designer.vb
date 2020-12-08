@@ -107,7 +107,6 @@ Partial Public Class Main
         Me.KeyPreview = True
         Me.Name = "Main"
         Me.Text = "Tomate"
-        Me.TopMost = True
         Me.ResumeLayout(False)
 
     End Sub

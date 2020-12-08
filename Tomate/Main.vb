@@ -134,6 +134,9 @@ Public Class Main
         If time.TotalSeconds = 0 Then
             TimerObject.Enabled = False
 
+            Me.TopMost = True
+            Me.TopMost = False
+
             Try
                 Dim p As SoundPlayer = New SoundPlayer("\Windows\Default.wav")
                 p.Play()
